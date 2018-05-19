@@ -1,1 +1,1 @@
-# gl4dummies-Holiday
+Use Makefile to start the animation.
